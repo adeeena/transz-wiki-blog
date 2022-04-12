@@ -1,3 +1,7 @@
+body, #header {
+    background: #17191C;
+}
+
 .fa {
   padding-right: 5px;
 }
