@@ -1,5 +1,9 @@
 body, #header {
-    background: #17191C;
+    background: #272729 !important;
+}
+
+.card {
+    background: #3F3F46 !important;
 }
 
 .fa {
