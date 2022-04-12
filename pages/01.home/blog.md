@@ -19,5 +19,6 @@ display_post_summary:
     enabled: false
 feed:
     limit: 10
+hero_image: Banner.png
 ---
 
