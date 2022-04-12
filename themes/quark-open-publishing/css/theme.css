@@ -4,6 +4,11 @@ body, #header {
 
 .card {
     background: #3F3F46 !important;
+    box-shadow:  0 10px 20px 5px rgb(0 0 0 / 30%) !important;
+}
+
+h4 {
+    color: white !important;
 }
 
 .fa {
