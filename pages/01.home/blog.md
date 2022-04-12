@@ -20,5 +20,6 @@ display_post_summary:
 feed:
     limit: 10
 hero_image: Banner.png
+hero_classes: hero-large
 ---
 
