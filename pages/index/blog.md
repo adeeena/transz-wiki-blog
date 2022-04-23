@@ -23,5 +23,6 @@ hero_image: Banner.png
 hero_classes: 'hero-large text-light parallax'
 routable: true
 visible: true
+redirect_default_route: true
 ---
 
