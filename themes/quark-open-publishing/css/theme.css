@@ -49,6 +49,8 @@ h1, h2, h3, h4, h5, h6, p {
 #body-wrapper h5,
 #body-wrapper h6,
 #body-wrapper p,
+#body-wrapper ul,
+#body-wrapper ul li,
 .card-body p {
     color: #ababab !important;
 }
