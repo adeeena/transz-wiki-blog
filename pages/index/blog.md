@@ -23,5 +23,6 @@ routable: true
 visible: true
 routes: {  }
 hero_classes: hero-none
+media_order: 'character_icons_adena_200px.png,character_icons_alex_200px.png'
 ---
 
