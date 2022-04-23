@@ -22,6 +22,6 @@ feed:
 routable: true
 visible: true
 routes: {  }
-hero_classes: hero-tiny
+hero_classes: hero-none
 ---
 
