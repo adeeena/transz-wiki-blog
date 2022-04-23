@@ -33,7 +33,7 @@ body.header-fixed.header-animated #header.scrolled .logo img {
     background:  white;
 }
 
-.desktop-menu {
+#header .navbar-section.desktop-menu {
     display:  none;
 }
 
