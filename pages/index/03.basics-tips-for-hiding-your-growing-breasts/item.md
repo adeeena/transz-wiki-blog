@@ -10,9 +10,6 @@ feed:
     limit: 10
 hero_image: fitsum-admasu-oGv9xIl7DkY-unsplash.jpg
 hero_classes: 'hero-small text-light'
-taxonomy:
-    category:
-        - melltarto
 ---
 
 Great, you’ve got (tiny) breasts! Or maybe just really pointy nipples. But if you’ve started on HRT before socially transitioning, you’ve got a problem; what to do with them? Its a pretty common problem, and I couldn’t find a lot of resources on how to hide them effectively.
