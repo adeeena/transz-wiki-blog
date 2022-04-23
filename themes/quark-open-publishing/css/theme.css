@@ -28,10 +28,6 @@ body.header-fixed.header-animated #header.scrolled .logo img {
     height:  2rem !important;
 }
 
-h4.no-margin-top {
-    margin-top:  0 !important;
-}
-
 .mobile-menu .button_container .top,
 .mobile-menu .button_container .middle,
 .mobile-menu .button_container .bottom {
