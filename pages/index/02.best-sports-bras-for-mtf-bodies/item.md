@@ -8,7 +8,7 @@ show_pagination: true
 hide_from_post_list: false
 feed:
     limit: 10
-hero_image: kier-in-sight-Y4pT6QuG6E4-unsplash.jpg
+hero_image: fitsum-admasu-oGv9xIl7DkY-unsplash.jpg
 hero_classes: 'hero-small text-light'
 ---
 
