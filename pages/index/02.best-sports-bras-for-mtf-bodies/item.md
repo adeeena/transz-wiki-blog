@@ -1,22 +1,28 @@
 ---
 title: 'Best Sports Bras for MtF Bodies'
-hide_git_sync_repo_link: false
-blog_url: /blog
-show_sidebar: true
-show_breadcrumbs: true
-show_pagination: true
-hide_from_post_list: false
-feed:
-    limit: 10
-hero_image: fitsum-admasu-oGv9xIl7DkY-unsplash.jpg
-hero_classes: 'hero-small text-light'
 taxonomy:
     tag:
-        - tamogatas
         - melltarto
+hide_git_sync_repo_link: '0'
+hero_classes: 'hero-small text-light'
+hero_image: fitsum-admasu-oGv9xIl7DkY-unsplash.jpg
+blog_url: /blog
+show_sidebar: '1'
+show_breadcrumbs: '1'
+show_pagination: '1'
+hide_from_post_list: '0'
+feed:
+    limit: 10
 ---
 
 Sports bras are a necessary part of any MtF wardrobe: they’re comfortable, concealing (if you want), and provide needed support as your boobs grow.
+
+===
+
+<div class="accordion">
+    <div class="accordion-title">yolo</div>
+    <div class="accordion-content">omg om gqweqw eqwe qweqw</div>
+</div>
 
 But finding the right sports bra can be a challenge, especially for trans women. As I’ve written about before, the post-pubescent male ribcage is wider and deeper than the equivalent cis female’s. Additionally, trans female breasts tend to be a little lower and more widely spaced than cis female counterparts.
 
