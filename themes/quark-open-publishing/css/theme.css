@@ -34,6 +34,17 @@ body.header-fixed.header-animated #header.scrolled .logo img {
     background:  white;
 }
 
+@media (max-width:  900px) {
+    .blog-listing .bricklayer-column {
+        padding-right: 0 !important;
+    }
+}
+
+.hero.hero-none {
+    padding:  0!important;
+    min-height:  3rem !important;
+}
+
 #header .navbar-section.desktop-menu {
     display:  none;
 }
