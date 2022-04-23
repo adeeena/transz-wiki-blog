@@ -43,11 +43,11 @@ h1, h2, h3, h4, h5, h6, p {
     color: #ababab !important;
 }
 
-.hero.text-light h1 {
+.text-light {
     color: white !important;
 }
 
-.hero.text-dark h1 {
+.text-dark {
     color: black !important;
 }
 
