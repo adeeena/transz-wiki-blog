@@ -18,6 +18,8 @@ taxonomy:
 
 Sports bras are a necessary part of any MtF wardrobe: they’re comfortable, concealing (if you want), and provide needed support as your boobs grow.
 
+===
+
 But finding the right sports bra can be a challenge, especially for trans women. As I’ve written about before, the post-pubescent male ribcage is wider and deeper than the equivalent cis female’s. Additionally, trans female breasts tend to be a little lower and more widely spaced than cis female counterparts.
 
 This generally makes finding bras that fit a challenge, and while sports bras are inherently more forgiving than underwire bras, they still can be uncomfortable if not fitted properly. Common problems include:
