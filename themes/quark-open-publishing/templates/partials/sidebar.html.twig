@@ -4,6 +4,22 @@
 {% set sidebar_page = pages.find('/sidebar') %}
 {% set sidebar_page_content =  sidebar_page.content %}
 
+<div class="sidebar-content">
+    <h4>A Colors of Entryopy-ról</h4>
+    
+    <div class="sidebar-content">
+        Csinalunk dolgokat, ez a resz meg ertelemmel fel lesz toltve. Legalabb ha latjuk nap mint nap, akkor ott a motivacio, hogy egyszer valaki ide irjon valami normalis dolgot.
+    </div>
+</div>
+
+<div class="sidebar-content">
+    <h4>Linkek</h4>
+    
+    <div class="sidebar-content">
+        <a href="https://www.youtube.com/channel/UCpVxp_aiL-igVeQ1LfB4inA"><i class="fa fa-youtube"></i>Youtube</a><br />
+    </div>
+</div>
+
 {% if config.plugins.simplesearch.enabled %}
     <div class="sidebar-content">
         {% include 'partials/simplesearch_searchbox.html.twig' %}
