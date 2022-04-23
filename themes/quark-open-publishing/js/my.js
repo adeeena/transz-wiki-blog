@@ -35,6 +35,7 @@ $(document).ready(function () {
         var accordionContent = $(this).next();
         if (accordionContent.hasClass('displayed')) {
             accordionContent.removeClass('displayed');
+            accordionContent.height(0);
         } else {
             accordionContent.addClass('displayed');
             accordionContent.height(accordionContent.prop('scrollHeight') + 'px');
