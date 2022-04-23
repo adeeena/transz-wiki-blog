@@ -1,6 +1,9 @@
 body, #header {
     background: #272729 !important;
+    font-family: 'Fira Sans', sans-serif !important;
 }
+
+
 
 .card {
     background: #3F3F46 !important;
@@ -38,7 +41,7 @@ body.header-fixed.header-animated #header.scrolled .logo img {
 }
 
 h1, h2, h3, h4, h5, h6, p {
-    color: #ababab;
+    color: #ababab !important;
 }
 
 /*.card .card-body p {
