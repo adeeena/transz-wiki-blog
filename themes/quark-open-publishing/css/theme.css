@@ -33,6 +33,10 @@ body.header-fixed.header-animated #header.scrolled .logo img {
     background:  white;
 }
 
+.desktop-menu {
+    display:  none;
+}
+
 .card .card-body p {
     color:  #ababab;
 }
