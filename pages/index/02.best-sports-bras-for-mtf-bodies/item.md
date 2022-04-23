@@ -11,7 +11,7 @@ feed:
 hero_image: fitsum-admasu-oGv9xIl7DkY-unsplash.jpg
 hero_classes: 'hero-small text-light'
 taxonomy:
-    category:
+    tag:
         - tamogatas
         - melltarto
 ---
