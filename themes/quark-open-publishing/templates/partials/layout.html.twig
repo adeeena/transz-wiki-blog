@@ -13,11 +13,6 @@
     </div>
     {# check content display flag - hibbittsdesign.org #}
     {% if not (grav.uri.param('chromeless') or grav.uri.param('embedded')) and not(theme_var('chromeless.enabled')) %}
-        {% if show_sidebar %}
-            <div id="sidebar" class="column {{ sidebar_col }}">
-                {% block sidebar %}
-                {% endblock %}
-            </div>
-        {% endif %}
+        
     {% endif %}
 </div>
