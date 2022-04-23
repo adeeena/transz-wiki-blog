@@ -94,8 +94,12 @@ h1, h2, h3, h4, h5, h6, p {
 .accordion .accordion-content.displayed {
 }
 
+.sidebar-content .center {
+    text-align:  center;
+}
+
 .sidebar-content .one-of-us {
-    width: 3rem;
+    width: 6rem;
 }
 
 #body-wrapper h1,
