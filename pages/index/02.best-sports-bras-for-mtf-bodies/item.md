@@ -10,6 +10,10 @@ feed:
     limit: 10
 hero_image: fitsum-admasu-oGv9xIl7DkY-unsplash.jpg
 hero_classes: 'hero-small text-light'
+taxonomy:
+    tag:
+        - tamogatas
+        - melltarto
 ---
 
 Sports bras are a necessary part of any MtF wardrobe: they’re comfortable, concealing (if you want), and provide needed support as your boobs grow.
