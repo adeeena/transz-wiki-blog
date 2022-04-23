@@ -2,21 +2,21 @@ en:
     THEME_QUARK:
         BLOG:
             ITEM:
-                CONTINUE_READING: Continue Reading
-                NEXT_POST: Next Post
-                PREV_POST: Previous Post
+                CONTINUE_READING: Olvass tovább...
+                NEXT_POST: Következő poszt
+                PREV_POST: Előző poszt
         SIDEBAR:
             SIMPLE_SEARCH:
-                HEADLINE: Search
+                HEADLINE: Keresés
             RELATED_POSTS:
-                HEADLINE: Related Posts
+                HEADLINE: Kapcsolódó
             RANDOM_ARTICLE:
                 HEADLINE: Random Article
                 FEELING_LUCKY: I'm Feeling Lucky!
             SOME_TEXT_WIDGET:
                 HEADLINE: Some Text Widget
             POPULAR_TAGS:
-                HEADLINE: Popular Tags
+                HEADLINE: Cimkék
             ARCHIVES:
                 HEADLINE: Archives
             SYNDICATE:
