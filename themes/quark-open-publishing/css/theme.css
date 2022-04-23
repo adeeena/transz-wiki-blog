@@ -29,7 +29,7 @@ body.header-fixed.header-animated #header.scrolled .logo img {
 }
 
 h4.no-margin-top {
-    margin-top:  0 !important;
+    margin-top:  1rem !important;
 }
 
 .mobile-menu .button_container .top,
