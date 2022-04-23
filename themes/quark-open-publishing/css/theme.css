@@ -61,6 +61,10 @@ a:visited {
     background:  white !important;
 }
 
+.card-header .blog-date {
+    color: #808080 !important;
+}
+
 h1, h2, h3, h4, h5, h6, p {
     font-family: 'Fira Sans', sans-serif !important;
 }
