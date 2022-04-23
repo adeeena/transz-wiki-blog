@@ -37,9 +37,13 @@ body.header-fixed.header-animated #header.scrolled .logo img {
     display:  none;
 }
 
-.card .card-body p {
-    color:  #ababab;
+h1, h2, h3, h4, h5, h6, p {
+    color: #ababab;
 }
+
+/*.card .card-body p {
+    color:  #ababab;
+}*/
 
 .image-credit-wrapper {
 overflow: hidden;
