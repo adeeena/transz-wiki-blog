@@ -82,12 +82,12 @@ h1, h2, h3, h4, h5, h6, p {
 }
 
 .accordion .accordion-content {
-    transition: all .5s ease-in-out;
     height: 0;
+    overflow: hidden;
+    transition: all 1000ms;
 }
 
 .accordion .accordion-content.displayed {
-    height:  auto;
 }
 
 #body-wrapper h1,

@@ -32,11 +32,12 @@ $(document).ready(function () {
     });
 
     $(".accordion .accordion-title").click(function(){
-        var accordionTitle = this;
-        if ($(this).next().hasClass('displayed')) {
-            $(this).next().removeClass('displayed');
+        var accordionContent = $(this).next();
+        if (accordionContent.hasClass('displayed')) {
+            accordionContent.removeClass('displayed');
         } else {
-            $(this).next().addClass('displayed');
+            accordionContent.addClass('displayed');
+            accordionContent.style.height = accordionContent.scrollHeight + 'px';
         }
     });
 });
