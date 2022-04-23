@@ -15,6 +15,14 @@ h4 {
   padding-right: 5px;
 }
 
+#header {
+    background: linear-gradient(45deg, #24c1c1, #d53369) !important;
+}
+
+#header .logo img {
+    height:  4rem !important;
+}
+
 .image-credit-wrapper {
 overflow: hidden;
 position: relative;
