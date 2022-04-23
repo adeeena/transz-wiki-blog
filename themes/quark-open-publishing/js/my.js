@@ -33,6 +33,10 @@ $(document).ready(function () {
 
     $(".accordion .accordion-title").click(function(){
         var accordionTitle = this;
-        debugger;
+        if ($(this).next().hasClass('displayed')) {
+            $(this).next().removeClass('displayed');
+        } else {
+            $(this).next().addClass('displayed');
+        }
     });
 });

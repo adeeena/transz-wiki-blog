@@ -77,6 +77,14 @@ h1, h2, h3, h4, h5, h6, p {
     color: #ababab;
 }
 
+.accordion .accordion-content {
+    display:  none;
+}
+
+.accordion .accordion-content.displayed {
+    display:  block;
+}
+
 #body-wrapper h1,
 #body-wrapper h2,
 #body-wrapper h3, 
