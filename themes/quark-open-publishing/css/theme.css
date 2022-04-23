@@ -71,18 +71,23 @@ h1, h2, h3, h4, h5, h6, p {
 
 .accordion {
     border: 1px solid gray;
-    border-radius:  5px;
+    border-radius: 5px;
     margin-bottom: 1rem;
     padding: 1rem;
     color: #ababab;
 }
 
+.accordion .accordion-title {
+    cursor: pointer;
+}
+
 .accordion .accordion-content {
-    display:  none;
+    transition: all .5s ease-in-out;
+    height: 0;
 }
 
 .accordion .accordion-content.displayed {
-    display:  block;
+    height:  auto;
 }
 
 #body-wrapper h1,
