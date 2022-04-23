@@ -37,8 +37,7 @@ $(document).ready(function () {
             accordionContent.removeClass('displayed');
         } else {
             accordionContent.addClass('displayed');
-            debugger;
-            accordionContent.style.height = accordionContent.scrollHeight + 'px';
+            accordionContent.style.height = accordionContent.prop('scrollHeight') + 'px';
         }
     });
 });
