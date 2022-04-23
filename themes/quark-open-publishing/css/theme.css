@@ -23,6 +23,10 @@ h4 {
     height:  4rem !important;
 }
 
+body.header-fixed.header-animated #header.scrolled .logo img {
+    height:  2rem !important;
+}
+
 .image-credit-wrapper {
 overflow: hidden;
 position: relative;
