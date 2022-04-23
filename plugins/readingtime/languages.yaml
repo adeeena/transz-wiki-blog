@@ -1,9 +1,9 @@
 en:
   PLUGIN_READINGTIME:
-    SECOND: second
-    SECONDS: seconds
-    MINUTE: minute
-    MINUTES: minutes
+    SECOND: mp.
+    SECONDS: mp.
+    MINUTE: p.
+    MINUTES: p.
 
 cs:
   PLUGIN_READINGTIME:
