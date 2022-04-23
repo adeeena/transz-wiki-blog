@@ -12,7 +12,7 @@ media_order: kier-in-sight-Y4pT6QuG6E4-unsplash.jpg
 hero_image: kier-in-sight-Y4pT6QuG6E4-unsplash.jpg
 hero_classes: 'hero-small text-light'
 taxonomy:
-    category:
+    tag:
         - tamogatas
         - lmbt
 ---
