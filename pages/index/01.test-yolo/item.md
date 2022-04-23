@@ -8,5 +8,6 @@ show_pagination: true
 hide_from_post_list: false
 feed:
     limit: 10
+media_order: kier-in-sight-Y4pT6QuG6E4-unsplash.jpg
 ---
 
