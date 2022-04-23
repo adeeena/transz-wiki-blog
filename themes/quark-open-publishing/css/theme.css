@@ -69,6 +69,14 @@ h1, h2, h3, h4, h5, h6, p {
     font-family: 'Fira Sans', sans-serif !important;
 }
 
+.accordion {
+    border: 1px solid gray;
+    border-radius:  5px;
+    margin-bottom: 1rem;
+    padding: 1rem;
+    color: #ababab;
+}
+
 #body-wrapper h1,
 #body-wrapper h2,
 #body-wrapper h3, 

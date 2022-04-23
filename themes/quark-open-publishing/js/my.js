@@ -30,4 +30,9 @@ $(document).ready(function () {
             }
         }
     });
+
+    $(".accordion .accordion-title").click(function(){
+        var accordionTitle = this;
+        debugger;
+    });
 });
