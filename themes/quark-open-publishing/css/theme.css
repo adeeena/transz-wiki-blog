@@ -94,6 +94,10 @@ h1, h2, h3, h4, h5, h6, p {
 .accordion .accordion-content.displayed {
 }
 
+.sidebar-content .one-of-us {
+    width: 3rem;
+}
+
 #body-wrapper h1,
 #body-wrapper h2,
 #body-wrapper h3, 
