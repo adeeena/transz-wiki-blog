@@ -10,6 +10,7 @@ feed:
     limit: 10
 media_order: kier-in-sight-Y4pT6QuG6E4-unsplash.jpg
 hero_image: kier-in-sight-Y4pT6QuG6E4-unsplash.jpg
+hero_classes: 'hero-small text-light'
 ---
 
 Transitioning genders is complex, emotional process, especially at the beginning. Most trans people have a circle of friends and family that want to support them, but struggle to understand what and how to do it best. Certainly, transitioning is growing more common, but most people still don’t have direct experience supporting a trans person. And that’s ok – we’re all in this process together.
