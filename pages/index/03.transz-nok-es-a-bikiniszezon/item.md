@@ -8,8 +8,15 @@ show_pagination: true
 hide_from_post_list: false
 feed:
     limit: 10
-hero_image: fitsum-admasu-oGv9xIl7DkY-unsplash.jpg
+hero_image: wil-stewart-K_TbABnVzHo-unsplash.jpg
 hero_classes: 'hero-small text-light'
+media_order: wil-stewart-K_TbABnVzHo-unsplash.jpg
+published: true
+taxonomy:
+    tag:
+        - 'transz nők'
+        - bikiniszezon
+        - nyár
 ---
 
 Hamarosan megint itt az idő arra, hogy vízparton legyünk, élvezzük a ránk váró napozást vagy a hűs vízben való felfrissülést.
@@ -17,6 +24,8 @@ Hamarosan megint itt az idő arra, hogy vízparton legyünk, élvezzük a ránk 
 Ugyanakkor ez az időszak rengeteg felkészüléssel is jár, ha műtét előtt álló transz nők vagyunk. Ilyenkor mivel még kevesebb ruharéteg van rajtunk, még alaposabban fel kell arra készülünk, hogy hogyan mutatkozzunk deréktájt.
 
 Íme néhány ötlet arra, hogy milyen lehetőségeink is vannak bikinivel kombinalva a kívánt hatást elérni.
+
+===
 
 ## 1. Hagyjunk mindent úgy, ahogy van
 
