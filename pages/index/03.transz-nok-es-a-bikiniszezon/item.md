@@ -47,6 +47,6 @@ Fürdőruha szoknyával, vagy lány fürdőnadrág vagy rövidnadrág viselése.
 
 ### Speciális tucking fürdőruha
 
-A legegyszerűbb, és a legkényelmesebb megoldás pedig a kifejezetten transz nőknek készített fürdőruhák, mint peldául a (GenderBender)[https://genderbenderllc.com/collections/swim], a (LeoLines)[https://www.etsy.com/shop/LeoLines] vagy a (TomboyX)[https://tomboyx.com/collections/swim] termékei. Mindegyik olyan fürdőruhákat arul, amelyek kényelmes párnázottság mellett nyújtanak megfelelő védelmet, még akkor is, ha esetleg strandröplabdázni volna kedved.
+A legegyszerűbb, és a legkényelmesebb megoldás pedig a kifejezetten transz nőknek készített fürdőruhák, mint peldául a [GenderBender](https://genderbenderllc.com/collections/swim), a [LeoLines](https://www.etsy.com/shop/LeoLines) vagy a [TomboyX](https://tomboyx.com/collections/swim) termékei. Mindegyik olyan fürdőruhákat arul, amelyek kényelmes párnázottság mellett nyújtanak megfelelő védelmet, még akkor is, ha esetleg strandröplabdázni volna kedved.
 
 Természetesen meg kell találnod a hozzád illő legjobb megoldást, amivel kényelmesen el tudsz tölteni egy napot a barátaiddal a nyari szezon alatt.
