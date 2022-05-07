@@ -19,7 +19,7 @@ taxonomy:
         - nyár
 permissions:
     authors:
-        - adeeena
+        - adena
 ---
 
 Hamarosan megint itt az idő arra, hogy vízparton legyünk, élvezzük a ránk váró napozást vagy a hűs vízben való felfrissülést.
