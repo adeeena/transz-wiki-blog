@@ -65,6 +65,12 @@ a:visited {
     background:  white !important;
 }
 
+.author-box {
+    background:  white !important;
+    padding:  .5rem;
+    color: #808080 !important;;
+}
+
 .card-header .blog-date {
     color: #808080 !important;
 }
