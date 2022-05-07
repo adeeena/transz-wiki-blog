@@ -12,8 +12,9 @@ hero_image: wil-stewart-K_TbABnVzHo-unsplash.jpg
 hero_classes: 'hero-small text-light'
 media_order: wil-stewart-K_TbABnVzHo-unsplash.jpg
 published: true
-author: 'Muráncsik Adéna'
 taxonomy:
+    author:
+        - 'Muráncsik Adéna'
     tag:
         - 'transz nők'
         - bikiniszezon
