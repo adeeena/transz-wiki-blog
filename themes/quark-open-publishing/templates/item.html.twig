@@ -18,13 +18,13 @@
               {% endif %}
               {% if page.taxonomy.author|length > 1 %}
                 {% for author in page.taxonomy.author %}
-                    <span class="author-box">{{ author }}</span>
+                    - <span class="author-box">{{ author }}</span>
                 {% endfor %}
 
               {# POST WRITTEN BY A SINGLE AUTHOR #}
               {% else %}
                 {% for author in page.taxonomy.author %}
-                    <span class="author-box">{{ author }}</span>
+                    - <span class="author-box">{{ author }}</span>
                 {% endfor %}
               {% endif %}
             </p>
