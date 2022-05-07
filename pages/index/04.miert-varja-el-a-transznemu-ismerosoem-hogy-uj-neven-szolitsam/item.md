@@ -13,7 +13,7 @@ taxonomy:
         - előbújás
         - 'coming out'
 permissions: {  }
-hero_classes: 'text-light hero-medium'
+hero_classes: 'text-light hero-tiny'
 hero_image: jon-tyson-566CgCRSNCk-unsplash.jpg
 ---
 
