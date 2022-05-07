@@ -12,7 +12,11 @@ taxonomy:
         - transznemű
         - előbújás
         - 'coming out'
+    author:
+        - worldless
 permissions: {  }
+hero_classes: 'text-light hero-medium'
+hero_image: jon-tyson-566CgCRSNCk-unsplash.jpg
 ---
 
 _Megelőző megjegyzés: Ez a cikk nem kifejezetten hasznos olyan esetekben, ha valakinek a párja bújik elő transzneműként, az a téma egy külön cikket megér. A lentebbiek főleg barátságok, munkahelyi vagy iskolai kapcsolatok, rokoni kapcsolatok, vagy felszínes ismerettségek esetében értelmezhetőek._
