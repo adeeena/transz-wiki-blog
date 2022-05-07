@@ -8,12 +8,12 @@ show_breadcrumbs: true
 show_pagination: true
 hide_from_post_list: false
 taxonomy:
+    category:
+        - worldless
     tag:
         - transznemű
         - előbújás
         - 'coming out'
-    author:
-        - worldless
 permissions: {  }
 hero_classes: 'text-light hero-medium'
 hero_image: jon-tyson-566CgCRSNCk-unsplash.jpg
