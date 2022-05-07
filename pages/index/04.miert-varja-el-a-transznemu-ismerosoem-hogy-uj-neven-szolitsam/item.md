@@ -8,13 +8,12 @@ show_breadcrumbs: true
 show_pagination: true
 hide_from_post_list: false
 taxonomy:
-    author:
-        - worldless
     tag:
         - transznemű
         - előbújás
         - 'coming out'
 permissions: {  }
+hero_image: jon-tyson-566CgCRSNCk-unsplash.jpg
 ---
 
 _Megelőző megjegyzés: Ez a cikk nem kifejezetten hasznos olyan esetekben, ha valakinek a párja bújik elő transzneműként, az a téma egy külön cikket megér. A lentebbiek főleg barátságok, munkahelyi vagy iskolai kapcsolatok, rokoni kapcsolatok, vagy felszínes ismerettségek esetében értelmezhetőek._
