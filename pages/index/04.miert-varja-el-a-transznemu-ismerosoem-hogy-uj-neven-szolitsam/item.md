@@ -8,6 +8,8 @@ show_breadcrumbs: true
 show_pagination: true
 hide_from_post_list: false
 taxonomy:
+    category:
+        - 'Muráncsik Adéna'
     tag:
         - transznemű
         - előbújás
