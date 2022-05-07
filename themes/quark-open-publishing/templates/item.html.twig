@@ -18,13 +18,13 @@
               {% endif %}
               {% if page.taxonomy.category|length > 1 %}
                 {% for author in page.taxonomy.category %}
-                    - <span class="author-box">{{ author }}</span>
+                    - <a href="{{ blog.url|rtrim('/') }}/category{{ config.system.param_sep }}{{ author }}"><span class="author-box">{{ author }}</span></a>
                 {% endfor %}
 
               {# POST WRITTEN BY A SINGLE AUTHOR #}
               {% else %}
                 {% for author in page.taxonomy.category %}
-                    - <span class="author-box">{{ author }}</span>
+                    - <a href="{{ blog.url|rtrim('/') }}/category{{ config.system.param_sep }}{{ author }}"><span class="author-box">{{ author }}</span></a>
                 {% endfor %}
               {% endif %}
             </p>
