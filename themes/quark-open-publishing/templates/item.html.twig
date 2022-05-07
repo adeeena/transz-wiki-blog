@@ -16,7 +16,7 @@
               {% if config.plugins.readingtime.enabled %}
                 <span class="blogitem__readingtime">{% include 'partials/blog/readingtime.html.twig' %}</span>
                 
-                ===    {% page.taxonomy.author %}
+                ===    {{ page.taxonomy.author }}
                 
             </p>
             {% include 'partials/blog/taxonomy.html.twig' %}
