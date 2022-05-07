@@ -12,8 +12,10 @@ taxonomy:
         - transznemű
         - előbújás
         - 'coming out'
+    author:
+        - worldless
 permissions: {  }
-hero_classes: 'text-light hero-tiny'
+hero_classes: 'text-light hero-medium'
 hero_image: jon-tyson-566CgCRSNCk-unsplash.jpg
 ---
 
