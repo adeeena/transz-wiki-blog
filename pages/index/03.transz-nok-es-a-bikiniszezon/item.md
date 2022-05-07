@@ -13,12 +13,13 @@ hero_classes: 'hero-small text-light'
 media_order: wil-stewart-K_TbABnVzHo-unsplash.jpg
 published: true
 taxonomy:
-    author:
-        - 'Muráncsik Adéna'
     tag:
         - 'transz nők'
         - bikiniszezon
         - nyár
+permissions:
+    authors:
+        - adena
 ---
 
 Hamarosan megint itt az idő arra, hogy vízparton legyünk, élvezzük a ránk váró napozást vagy a hűs vízben való felfrissülést.
