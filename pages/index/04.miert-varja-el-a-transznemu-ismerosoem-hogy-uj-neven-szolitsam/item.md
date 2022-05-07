@@ -14,6 +14,9 @@ taxonomy:
         - transznemű
         - előbújás
         - 'coming out'
+permissions:
+    authors:
+        - adena
 ---
 
 _Megelőző megjegyzés: Ez a cikk nem kifejezetten hasznos olyan esetekben, ha valakinek a párja bújik elő transzneműként, az a téma egy külön cikket megér. A lentebbiek főleg barátságok, munkahelyi vagy iskolai kapcsolatok, rokoni kapcsolatok, vagy felszínes ismerettségek esetében értelmezhetőek._
