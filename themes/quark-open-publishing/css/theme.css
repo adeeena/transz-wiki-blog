@@ -67,8 +67,9 @@ a:visited {
 
 .author-box {
     background:  white !important;
-    padding:  .5rem;
-    color: #808080 !important;;
+    border-radius: 8px;
+    padding:  .2rem;
+    color: #808080 !important;
 }
 
 .card-header .blog-date {
