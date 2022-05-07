@@ -13,8 +13,6 @@ hero_classes: 'hero-small text-light'
 media_order: wil-stewart-K_TbABnVzHo-unsplash.jpg
 published: true
 taxonomy:
-    category:
-        - Adena
     tag:
         - 'transz nők'
         - bikiniszezon
