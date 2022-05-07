@@ -7,6 +7,11 @@ show_sidebar: true
 show_breadcrumbs: true
 show_pagination: true
 hide_from_post_list: false
+taxonomy:
+    tag:
+        - transznemű
+        - előbújás
+        - 'coming out'
 ---
 
 _Megelőző megjegyzés: Ez a cikk nem kifejezetten hasznos olyan esetekben, ha valakinek a párja bújik elő transzneműként, az a téma egy külön cikket megér. A lentebbiek főleg barátságok, munkahelyi vagy iskolai kapcsolatok, rokoni kapcsolatok, vagy felszínes ismerettségek esetében értelmezhetőek._
